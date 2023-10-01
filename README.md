@@ -14,8 +14,11 @@ License
 The project structure is organized as follows:
 
 flipkart_reviews.csv        # Raw Flipkart reviews dataset
+
 Flipkart_Reviews_Sentiment_Analysis.ipynb   # Jupyter notebook for analysis
+
 README.md                       # Project README file
+
 LICENSE                         # Project license file
 
 **Requirements**
