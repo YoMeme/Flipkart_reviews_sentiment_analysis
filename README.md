@@ -13,18 +13,13 @@ License
 **Project Structure**
 The project structure is organized as follows:
 
-│
+
 ├── data/
 │   ├── flipkart_reviews.csv        # Raw Flipkart reviews dataset
 │   ├── cleaned_reviews.csv         # Cleaned dataset after preprocessing
 │
 ├── notebooks/
 │   ├── Flipkart_Reviews_Sentiment_Analysis.ipynb   # Jupyter notebook for analysis
-│
-├── src/
-│   ├── data_collection.py          # Data collection script
-│   ├── data_preprocessing.py       # Data preprocessing script
-│   ├── sentiment_analysis.py       # Sentiment analysis script
 │
 ├── requirements.txt                # List of required Python packages
 ├── README.md                       # Project README file
